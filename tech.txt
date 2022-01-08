@@ -1,0 +1,34 @@
+link web utama 
+(http://localhost/sipenduduk/)
+
+link web admin
+(http://localhost/sipenduduk/login)
+
+
+	Technology Yang Dipakai:
+
+1. Bahasa Pemrograman PHP
+2. Framework PHP (Codeigniter 3)
+3. Database dbms (mysql)
+4. Template AdminLTE
+5. Bootstrap, Fontawesome, dll
+
+------------------------------------
+
+	Fitur" Apps:
+
+1. Login/Logout
+2. Master Penduduk
+3. Master Bansos
+4. Master User
+5. Homepage Aplikasi
+6. Profile RT
+
+------------------------------------
+
+1. install xampp
+2. xampp/htdocs/ -> paste
+3. active mysql & apache
+4. web browser -> localhost/phpmyadmin
+5. create database -> import
+6. web browser -> localhost/kasir-ci
