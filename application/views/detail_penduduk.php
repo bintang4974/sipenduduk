@@ -94,7 +94,7 @@
                 </table>
                 <hr>
                 <div class="alert alert-info" role="alert">
-                    Jika ada kendala, silakan menghubungi admin di nomor 081xxxxx
+                    Jika ingin mengedit data, silakan menghubungi admin di nomor 081xxxxx, sekaligus mengisi GForm dengan link berikut ()
                 </div>
             </div>
         </div>
