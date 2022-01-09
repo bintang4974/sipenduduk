@@ -94,7 +94,7 @@
                 </table>
                 <hr>
                 <div class="alert alert-info" role="alert">
-                    Jika ingin mengedit data, silakan menghubungi admin di nomor 081xxxxx, sekaligus mengisi GForm dengan link berikut ()
+                    Jika ingin mengedit data, silakan menghubungi admin di nomor 081xxxxx, sekaligus mengisi GForm dengan link berikut (<a href="https://forms.gle/e6k95uqDtLFoL3sA7">Klik Disini</a>)
                 </div>
             </div>
         </div>

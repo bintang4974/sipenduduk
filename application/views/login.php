@@ -1,7 +1,7 @@
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="login-logo">
-            <a href="<?= base_url() ?>"><b>Kasir</b>Q</a>
+            <b>Sistem Informasi Penduduk</b> RT 3
         </div>
         <!-- /.login-logo -->
         <div class="card">
